@@ -1,5 +1,27 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
-  }
+  },
+  "name": "my-recipes-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anivm01/recipes-demo-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anivm01/recipes-demo-api/issues"
+  },
+  "homepage": "https://github.com/anivm01/recipes-demo-api#readme",
+  "description": ""
 }
