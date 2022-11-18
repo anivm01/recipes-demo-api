@@ -1,8 +1,8 @@
 [
   {
-    "id": "0",
+    "id": 0,
     "title": "Pesto Pasta with Chicken",
-    "img":  "https://www.allrecipes.com/thmb/30Q2X6Ixt_NE1QcAzs_rznRB3Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image-6-9532607d48a248b48ddc4a3588ae1b9c.jpg",
+    "img": "https://www.allrecipes.com/thmb/30Q2X6Ixt_NE1QcAzs_rznRB3Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image-6-9532607d48a248b48ddc4a3588ae1b9c.jpg",
     "description": "This chicken pesto pasta is easy and delicious. Serve with crusty bread and salad for a quick dinner. Use as much or as little pesto sauce as you like. Using homemade pesto will taste even better, but it adds to prep time. Enjoy!",
     "servings": "8",
     "ingredients": [
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "id": "1",
+    "id": 1,
     "title": "Chicken Pot Pie",
     "img": "https://www.allrecipes.com/thmb/XVN99U2nrQujS3Lpy083FlYaEzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/26317-chicken-pot-pie-mfs-480-7e84da80505a410fa75139eab67a652f.jpg",
     "description": "A delicious chicken pie made from scratch with carrots, peas, and celery in a pre-made crust. Add thyme and poultry seasoning for more flavor.",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "Flourless Chocolate Cake",
     "img": "https://www.allrecipes.com/thmb/cfWULyt0B6hqHckZQYUEm0R32ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/668993-flourless-chocolate-cake-i-Dianne-1x1-1-82e35d707aef47659e3bb09fd1c847f9.jpg",
     "description": "A dense flourless chocolate cake for those of us who can't tolerate wheat or gluten.",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "id": "3",
+    "id": 3,
     "title": "Bread Pudding with Vanilla Sauce",
     "img": "https://www.allrecipes.com/thmb/C-el6RDkJOnWeHNXKlxVon26jl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1112576-3335c5aad3794fbd93e269ba35d38fe7.jpg",
     "description": "We found my mom's best bread pudding recipe tucked inside her Bible when going through her things. It has become a family tradition on the first snow day of the year, and if that doesn't happen, which can be the case here in central Virginia, we know it'll be the featured dessert at Easter and anytime a comfort food is in order.",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": "4",
+    "id": 4,
     "title": "Cream of Mushroom Soup",
     "img": "https://www.allrecipes.com/thmb/MmOK08AY8PdikbqPVFFzOMUxC3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/235589-chef-johns-creamy-mushroom-soup-ddmfs-1X1-1-9a9812a4023e40c5b5113bc542d13654.jpg",
     "description": "This mushroom soup is creamy and rich — it's one of my favorite soups of all time and it's so easy! The long, slow caramelization of the mushrooms requires a little patience, but it really unlocks their magical flavor, which is the secret to this mushroom soup.",

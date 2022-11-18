@@ -18,11 +18,7 @@ function getRecipeById (req, res) {
     }
 }
 function postRecipe (req, res) {
-    const title = req.body.title;
-    const description = req.body.description;
-    const servings = req.body.servings;
-    const ingredients = req.body.ingredients;
-    const steps = req.body.steps;
+    const {title, description, servings, ingredients, steps } = req.body
     if (!title || !description || !servings || !ingredients || !steps){
         return res.status(400).send("Important information is missing. Must send valid information.")
     }

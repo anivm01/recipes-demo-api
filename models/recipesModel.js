@@ -29,8 +29,8 @@ function getOneRecipe (recipeId) {
 
 function createNewRecipe (title, description, ingredients, steps, servings) {
     const allRecipes = getAllRecipes();
-    const newId = allRecipes[allRecipes.length-1].id + 1
-    const newVideo = {
+    const newId = Number(allRecipes[allRecipes.length-1].id) + 1
+    const newRecipe = {
         title: title,
         image: "http://localhost:8000/images/image9.jpeg",
         description: description,
